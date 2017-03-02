@@ -1,6 +1,11 @@
 # MacOS
 #
 .DS_Store
+.vscode/
+*.git
+.watchmanconfig
+.buckconfig
+.flowconfig
 
 # Xcode
 #
